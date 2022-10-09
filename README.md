@@ -39,7 +39,7 @@
 # Connect with me<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="40px">
 
   <a href="https://www.linkedin.com/in/sn0walk3r/">
-    <img align="left" alt="Mohamed Sherby | Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="left" alt="Mohamed Sherby | Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
   
    </a>&nbsp;&nbsp;<a href="https://twitter.com/sn0walk3r">
