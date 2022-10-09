@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi, this is Mohamed Sherby (Sn0walk3r) 
 
 
