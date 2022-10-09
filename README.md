@@ -6,7 +6,7 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
 -->
 
- <img src="https://i.pinimg.com/originals/2e/5c/72/2e5c72d2e357c97df0cbd6d63e782989.gif" align="left" width="120" hspace="5" vspace="10">&nbsp;&nbsp;<div align="center"> Walking over the snow with clear steps and mind throw a long journy of exploring new worlds. I am a geek <b> DevOps Engineer </b> , Developer and Cyber Security Engineer who love a details. small details always can solve big problems you never think it's can be solved. I love to improve and create a new creative solutoins to the tech world specialy in DevOps and DevSecOps.</p>
+ <img src="https://i.pinimg.com/originals/2e/5c/72/2e5c72d2e357c97df0cbd6d63e782989.gif" align="left" width="120" hspace="5" vspace="10">&nbsp;&nbsp;<div align="center"> Walking over the <b> snow </b> with clear steps and mind throw a long journy of exploring new worlds. I am a geek <b> DevOps Engineer </b> , <b> Developer </b> and <b> Cyber Security Engineer </b> who love a details. small details always can solve big problems you never think it's can be solved. I love to improve and create a new creative solutoins to the tech world specialy in DevOps and DevSecOps.</p>
 </div>
 <br>
 <br>
