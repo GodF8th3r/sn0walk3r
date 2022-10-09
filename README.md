@@ -13,7 +13,7 @@
 <br>
 
 
-![sn0walk3r's github stats](https://github-readme-stats.vercel.app/api?username=sn0walk3r&count_private=true&show_icons=true&theme=jolly&include_all_commits=true)&nbsp;&nbsp;<img src="https://octodex.github.com/images/codercat.jpg" alt="gitcat" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;" width="280px" />
+![sn0walk3r's github stats](https://github-readme-stats.vercel.app/api?username=sn0walk3r&count_private=true&show_icons=true&theme=jolly&include_all_commits=true)&nbsp;&nbsp;<img src="https://octodex.github.com/images/megacat.jpg" alt="gitcat" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;" width="280px" />
 <img src="https://octodex.github.com/images/codercat.jpg" alt="gitcat" style=" margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;" width="280px" />
 
 <br>
